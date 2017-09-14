@@ -1,0 +1,68 @@
+body {
+  background: #FFEBEE;
+  color: #F44336;
+  font-family: Montserrat;
+}
+
+#main-container {
+  margin: 30px auto;
+}
+
+.iphone {
+  max-width: 100%;
+}
+
+.site-footer {
+  text-transform: uppercase;
+  font-size: 12px;
+}
+
+.login-box, .signup-box {
+  background: white;
+  border: 1px solid #edeeee;
+  border-radius: 8px;
+  padding: 10px 0;
+  text-align: center;
+}
+
+.signup-box .venturabigdata {
+  font-family: 'Oleo Script';
+  font-size: 42px;
+  color: #ED1C24;
+}
+
+.signup-form {
+  width: 65%;
+  margin: 0 auto;
+}
+
+.signup-form h2 {
+  color: #FFB400;
+  font-size: 1.2em;
+}
+
+.signup-form .btn.btn-fb {
+  background-color: #4090db;
+  font-size: .9em;
+}
+
+.signup-form .btn.btn-fb:hover {
+  background-color: #2d6599;
+}
+
+.signup-form .btn-signup {
+  background-color: #D32F2F;
+}
+
+#dropdown-language, #dropdown-language-item .dropdown-language-item-a {
+  color: #F44336;
+}
+
+#dropdown-language:hover, #dropdown-language-item .dropdown-language-item-a:hover {
+  color: white;
+  background-color: #D32F2F;
+}
+
+#main-container .login-box-a {
+  color: #FFB400;
+}
